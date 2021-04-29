@@ -1,0 +1,1 @@
+This will contain various scanners. These may range from purpose built scanners that scan for a specific vulnerability to scanners designed to scan large amounts of hosts/ips for various things (such as massdns for example)
